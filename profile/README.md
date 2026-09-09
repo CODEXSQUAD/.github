@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://tenor.com/view/olde-ok-hello-kill-me-no-gif-19067713">
-    <img src="https://media.tenor.com/images/70bf93a2f0f419a23dca57d2ea5695e7/tenor.gif" width="700" alt="Olde Ok GIF">
-  </a>
+  <img src="https://media1.tenor.com/m/iCEmSf5rhyAAAAAd/olde-ok.gif" width="700" alt="Olde Ok GIF">
 </p>
 
 # Startup Ideas
