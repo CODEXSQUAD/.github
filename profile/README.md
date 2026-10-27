@@ -12,9 +12,6 @@
   <img src="https://media1.tenor.com/m/YSoJ-MoTnTQAAAAd/linus-rip.gif" width="500" alt="Linus RIP">
 </p>
 
-##
-Эйчарки пока нет, двигаемся на чувствах(чат гпт плюс за 20 американских бумажек)
-
 
 ##
 Copyright © 2026 Правообладатели проекта JobMatch. Все права защищены.
