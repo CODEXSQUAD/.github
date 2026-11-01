@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/iCEmSf5rhyAAAAAd/olde-ok.gif" width="700" alt="Olde Ok GIF">
+  <img src="https://media1.tenor.com/m/qmSIzc-H7vIAAAAC/1984.gif" width="700" alt="Olde Ok GIF">
 </p>
 
 # Startup Ideas
