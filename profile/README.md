@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/papers-please-gif-14921863512507916418" width="500" alt="Linus RIP">
+  <img src="https://media1.tenor.com/m/zxUbziHloIIAAAAC/papers-please.gif" width="500" alt="Linus RIP">
 </p>
 
 # Startup Ideas
